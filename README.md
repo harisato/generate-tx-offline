@@ -44,7 +44,7 @@ yarn start
 
 - Output: unsigned.json
 
-## STEP 2: Sign
+## STEP 2 - Sign
 
 - Owner 1 & 2 sign:
 
@@ -79,7 +79,7 @@ aurad tx multisign \
     --node https://rpc.euphoria.aura.network:443 > signedTx.json
 ```
 
-## STEP 3: Broadcast
+## STEP 3 - Broadcast
 
 ```
 aurad tx broadcast \
