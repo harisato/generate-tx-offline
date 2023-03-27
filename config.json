@@ -1,0 +1,19 @@
+{
+  "delegatorAddress": "aura19rc6yugpmq5gmzhz09p8w9sfqppu9r5m7u3jhy",
+  "validatorAddresses": [
+    "auravaloper1hse42mechx4442edw9pfgny2r75cznthqlcl66",
+    "auravaloper10dpsdmx2jm32fe4sudg79l9jrh5aep8l344gjn",
+    "auravaloper1hell62gp8j6anrd5r4hc07m9gx5jyz7w09f9z3",
+    "auravaloper1up3cnxcs6krcxzmp5rzcsz85djerxvu5zg2gms",
+    "auravaloper1pxl99s8h4g5mg564zrp4qz9k8h64l24fj0tyqy",
+    "auravaloper1nz98ds0qle7ypcdc4lsp4sa6z0a9lrawwaarxv",
+    "auravaloper1vz3d2e088f3ln57gc788m0stgpkdvvw8hauwaj",
+    "auravaloper10fucc0hfsj524p5d8ve0xq3rxzaqjzcujh0fl5",
+    "auravaloper18mlzkmmnuk4t44s52ulex070tc7xyrrmmw97y5",
+    "auravaloper18hwyfytvjcuh7jkh4ue9n60h24xp7tnwvqxvry"
+  ],
+  "owners": 2,
+  "defaultGasPrice": 0.0025,
+  "denom": "ueaura",
+  "delegateAmount": 100000
+}
