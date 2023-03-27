@@ -36,6 +36,12 @@ aurad keys add \
 
 - Edit config in config.json
 
+- Install node dependencies:
+
+```
+yarn
+```
+
 - Run app:
 
 ```
